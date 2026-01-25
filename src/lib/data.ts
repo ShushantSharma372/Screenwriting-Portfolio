@@ -81,7 +81,7 @@ export const works: Work[] = [
  
   {
     id: '5',
-    title: 'The Innocent',
+    title: 'Innocence',
     type: 'Feature Idea',
     genre: 'Tragedy',
     description: 'Two strangers, living miles apart, lead parallel lives. Both have small and happy families. However, their peaceful lives take a dark turn when similar eerie incidents begin to unfold around them and they began to seem more related than mere strangers.',
