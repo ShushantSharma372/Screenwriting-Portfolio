@@ -1,0 +1,22 @@
+/* Base track setup */
+.scroll-track {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  
+  /* Define the keyframes only */
+  @keyframes scrollUp {
+    from { transform: translateY(0); }
+    to { transform: translateY(-50%); }
+  }
+  
+  @keyframes scrollDown {
+    from { transform: translateY(-50%); }
+    to { transform: translateY(0); }
+  }
+  
+  /* Ensure the container doesn't block clicks to buttons */
+  .pointer-events-none {
+    pointer-events: none;
+  }
