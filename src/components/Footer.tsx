@@ -23,7 +23,7 @@ const Footer = () => {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            © {currentYear} Shushant Sharma. All rights reserved.
+            © {currentYear} Adi Krishna Sharma. All rights reserved.
           </p>
           
           <div className="flex items-center space-x-4">
