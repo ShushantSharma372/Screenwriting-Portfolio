@@ -39,7 +39,7 @@ const Navbar = () => {
     <header className="fixed w-full bg-background/80 backdrop-blur-md z-50 border-b border-border">
       <div className="container flex justify-between items-center h-16 px-4 md:px-6">
         <Link to="/" className="font-serif text-xl md:text-2xl font-medium">
-          Shushant Sharma
+          Adi Krishna Sharma
         </Link>
         
         {/* Desktop Navigation */}
