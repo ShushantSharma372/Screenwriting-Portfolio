@@ -37,7 +37,7 @@ export const works: Work[] = [
     title: 'The Pool Club',
     type: 'Short Film',
     genre: 'Slice of Life, Drama, Comedy',
-    description: 'I crafted a visually engaging screenplay with minimal dialogue, rich character depth, and a subtle yet powerful emotional arc. This script is perfect for indie filmmakers looking for a simple yet impactful story that resonates with audiences.This is a 6-page excerpt. The full script is available upon request.The dialogues in this script are written in Hindi.',
+    description: 'I crafted a visually engaging screenplay with minimal dialogue, rich character depth, and a subtle yet powerful emotional arc. This script is in Hindi and is ideal for indie filmmakers seeking a simple yet impactful story that resonates with audiences.This is a 6-page excerpt. The full script is available upon request.The dialogues in this script are written in Hindi.',
     image: '/images/image2.png',
     readMoreLink: 'https://drive.google.com/file/d/14J-vwq9Pyb4LK8a1r4OlzjnuzHsp8XYc/view?usp=sharing'
   },
