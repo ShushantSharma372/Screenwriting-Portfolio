@@ -96,11 +96,11 @@ export const writer = {
   name: 'Adi Krishna Sharma',
   tagline: 'Screenplay Writer',
   shortBio: 'Creating stories that in between reality and imagination. Specializing in character-driven narratives across different mediums.',
-  about: `I'm a writer with a passion for exploring emotions through different narrative forms. My work spans short stories, screenplays, and feature film concepts, each designed to immerse readers and viewers in worlds both familiar and strange.
+  about: `I'm a writer from India, with a passion for exploring emotions through different narrative forms. My work spans short stories and screenplays, each designed to immerse readers and viewers in worlds that are both familiar and strange.
 
 My writing focuses on character-driven narratives that examine the complexities of human relationships, identity, and the subtle moments that shape our lives.
 
-When I'm not writing, you'll find me exploring independent cinemas, playing chess, or engaging in conversations about movies, web series, novels, writers, songs, and music from all over the world.`,
+When I'm not writing, you'll find me exploring new cinemas, playing chess, jamming spotify, or engaging in conversations about movies, web series, novels, songs, and music from all over the world.`,
   influences: ['Christopher Nolan', 'C Prem Kumar', 'Imtiaz Ali', 'Sir Arthur Conan Doyale', 'Andy Weir'],
   focus: ['Character-driven narratives', 'Multi-genre stories', 'Mythological Folklores']
 };
