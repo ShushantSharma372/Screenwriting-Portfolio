@@ -13,8 +13,8 @@ const Index = () => {
     "/images/image3.png",
     "/images/image4.png",
     "/images/image9.png",
-    "/images/image6.jpg",
-    "/images/image7.jpg",
+    "/images/image6.png",
+    "/images/image7.png",
     "/images/image8.png"
   ];
 
