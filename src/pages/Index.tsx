@@ -15,7 +15,8 @@ const Index = () => {
     "/images/image9.png",
     "/images/image6.png",
     "/images/image7.png",
-    "/images/image8.png"
+    "/images/image8.png",
+    "/images/image10.jpg"
   ];
 
   // Logic to create 5 unique randomized columns
