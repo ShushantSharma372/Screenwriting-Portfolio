@@ -28,9 +28,9 @@ export const works: Work[] = [
     title: 'Until Then',
     type: 'Short Film',
     genre: 'Romance, Drama, Experimental',
-    description: 'A poetic meditation on grief and the quiet rituals of memory. This script juxtaposes warm, intimate dialogue with stark, solitary visuals. Designed for indie filmmakers, this 3-page excerpt offers a high-concept, production-friendly study in sensory contradiction and minimalist storytelling.',
+    description: 'A poetic meditation on grief and the quiet rituals of memory. After returning home, a young man finds himself reliving promises made to someone who is no longer there to keep them. UNTIL THEN is a short film about love, memory, and the quiet ways we hold on to those we miss.',
     image: '/images/image10.jpg',
-    readMoreLink: 'https://drive.google.com/file/d/1JZZ1lRhlIukmWF0KhNvOpEsbtaAPBtoY/view?usp=sharing'
+    readMoreLink: 'youtube.com/watch?si=53HBncF-ZoLOECgS&v=Hql5YCQsXaw&feature=youtu.be'
   },
   {
     id: '1',
